@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
 
-    <v-text-field label="credit card" />
+    <v-text-field label="phone number" />
   </div>
 </template>
 
